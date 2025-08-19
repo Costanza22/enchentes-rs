@@ -185,30 +185,3 @@ Contribuições são bem-vindas! Para contribuir:
 
 Este projeto está licenciado sob a licença CC0-1.0 (Domínio Público) - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 👤 Autor
-
-**Seu Nome** - [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-
-## 🙏 Agradecimentos
-
-- **Defesa Civil do RS**: Registros oficiais de emergências
-- **IBGE**: Dados demográficos e socioeconômicos
-- **CEPED**: Estudos sobre desastres naturais
-- **ANA**: Dados hidrológicos e meteorológicos
-- **Governo do RS**: Relatórios oficiais e declarações
-
-## 📞 Contato
-
-- **Email**: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-- **GitHub**: [@seu-usuario](https://github.com/seu-usuario)
-- **Kaggle**: [seu-perfil-kaggle](https://www.kaggle.com/seu-perfil)
-
-## 📈 Status do Projeto
-
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/rs-impacto)
-![GitHub issues](https://img.shields.io/github/issues/seu-usuario/rs-impacto)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/seu-usuario/rs-impacto)
-
----
-
-⭐ **Se este projeto foi útil para você, considere dar uma estrela no GitHub!**
