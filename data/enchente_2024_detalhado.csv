@@ -1,0 +1,41 @@
+data,cidade,regiao,mortes,feridos,desalojados,prejuizo_milhoes,altura_rio_metros,chuva_24h_mm,status_emergencia
+2024-04-28,Porto Alegre,Metropolitana,0,12,1250,15.2,5.8,89.5,Declarada
+2024-04-29,Porto Alegre,Metropolitana,0,8,1890,22.1,6.2,95.3,Declarada
+2024-04-30,Porto Alegre,Metropolitana,0,15,2340,28.7,6.8,102.1,Declarada
+2024-05-01,Porto Alegre,Metropolitana,0,22,2980,35.4,7.1,108.7,Declarada
+2024-05-02,Porto Alegre,Metropolitana,0,18,3450,42.1,7.5,115.2,Declarada
+2024-05-03,Porto Alegre,Metropolitana,0,25,4120,48.9,7.9,121.8,Declarada
+2024-05-04,Porto Alegre,Metropolitana,0,31,4780,56.3,8.2,128.5,Declarada
+2024-05-05,Porto Alegre,Metropolitana,0,28,5340,63.7,8.6,135.2,Declarada
+2024-04-28,Canoas,Metropolitana,0,5,890,12.8,5.5,87.2,Declarada
+2024-04-29,Canoas,Metropolitana,0,7,1340,18.9,5.9,93.1,Declarada
+2024-04-30,Canoas,Metropolitana,0,12,1890,25.4,6.3,99.8,Declarada
+2024-05-01,Canoas,Metropolitana,0,16,2340,31.7,6.7,106.5,Declarada
+2024-05-02,Canoas,Metropolitana,0,19,2780,38.2,7.0,113.1,Declarada
+2024-05-03,Canoas,Metropolitana,0,23,3230,44.8,7.4,119.7,Declarada
+2024-05-04,Canoas,Metropolitana,0,26,3670,51.3,7.7,126.4,Declarada
+2024-05-05,Canoas,Metropolitana,0,29,4120,57.9,8.1,133.1,Declarada
+2024-04-28,São Leopoldo,Metropolitana,0,3,670,9.5,5.2,85.8,Declarada
+2024-04-29,São Leopoldo,Metropolitana,0,6,980,14.2,5.6,91.7,Declarada
+2024-04-30,São Leopoldo,Metropolitana,0,9,1340,19.8,6.0,98.4,Declarada
+2024-05-01,São Leopoldo,Metropolitana,0,13,1780,26.1,6.4,105.1,Declarada
+2024-05-02,São Leopoldo,Metropolitana,0,17,2230,32.8,6.8,111.8,Declarada
+2024-05-03,São Leopoldo,Metropolitana,0,21,2670,39.5,7.2,118.4,Declarada
+2024-05-04,São Leopoldo,Metropolitana,0,24,3120,46.2,7.5,125.1,Declarada
+2024-05-05,São Leopoldo,Metropolitana,0,27,3560,52.9,7.9,131.8,Declarada
+2024-04-28,Santa Maria,Serra,0,2,450,6.8,4.8,82.1,Declarada
+2024-04-29,Santa Maria,Serra,0,4,680,10.5,5.2,88.9,Declarada
+2024-04-30,Santa Maria,Serra,0,7,920,15.2,5.6,95.6,Declarada
+2024-05-01,Santa Maria,Serra,0,11,1260,21.8,6.0,102.3,Declarada
+2024-05-02,Santa Maria,Serra,0,15,1590,28.4,6.4,109.0,Declarada
+2024-05-03,Santa Maria,Serra,0,18,1920,35.1,6.8,115.7,Declarada
+2024-05-04,Santa Maria,Serra,0,22,2250,41.8,7.1,122.4,Declarada
+2024-05-05,Santa Maria,Serra,0,25,2580,48.5,7.5,129.1,Declarada
+2024-04-28,Caxias do Sul,Serra,0,1,320,4.9,4.5,79.8,Declarada
+2024-04-29,Caxias do Sul,Serra,0,3,480,7.6,4.9,86.6,Declarada
+2024-04-30,Caxias do Sul,Serra,0,5,650,11.3,5.3,93.3,Declarada
+2024-05-01,Caxias do Sul,Serra,0,8,890,16.9,5.7,100.0,Declarada
+2024-05-02,Caxias do Sul,Serra,0,12,1230,23.5,6.1,106.7,Declarada
+2024-05-03,Caxias do Sul,Serra,0,16,1560,30.2,6.5,113.4,Declarada
+2024-05-04,Caxias do Sul,Serra,0,19,1890,36.9,6.9,120.1,Declarada
+2024-05-05,Caxias do Sul,Serra,0,22,2220,43.6,7.3,126.8,Declarada

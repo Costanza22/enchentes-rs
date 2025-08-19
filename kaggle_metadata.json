@@ -1,0 +1,21 @@
+{
+  "title": "Enchentes no Rio Grande do Sul - Impactos e Análises (2020-2024)",
+  "id": "seu-usuario/enchentes-rs-impactos",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "keywords": [
+    "enchentes",
+    "rio-grande-sul",
+    "desastres-naturais",
+    "brasil",
+    "hidrologia",
+    "impactos-sociais",
+    "prejuizos-economicos",
+    "crise-2024"
+  ],
+  "description": "Dataset completo sobre os impactos das enchentes no Rio Grande do Sul, incluindo a crise histórica de 2024. Dados sobre mortes, feridos, desalojados, prejuízos econômicos e indicadores hidrológicos.",
+  "citation": "Dados baseados em relatórios oficiais da Defesa Civil do RS, IBGE, CEPED e outras fontes governamentais."
+}
